@@ -397,7 +397,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: {x: 0, y: 0, z: 8.873}
+        value: {x: 0, y: 0, z: 192.399}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -406,7 +406,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.33333334
-        value: {x: 0, y: 0, z: -28.131}
+        value: {x: 0, y: 0, z: 156.91}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -415,7 +415,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5
-        value: {x: 0, y: 0, z: 8.873}
+        value: {x: 0, y: 0, z: 173.065}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -828,7 +828,7 @@ AnimationClip:
         outWeight: {x: 0.33333334, y: 0.33333334, z: 0.33333334}
       - serializedVersion: 3
         time: 0.5
-        value: {x: -2.259, y: 0.606, z: 0}
+        value: {x: -2.29, y: 0.35, z: 0}
         inSlope: {x: 0, y: 0, z: 0}
         outSlope: {x: 0, y: 0, z: 0}
         tangentMode: 0
@@ -2890,7 +2890,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
-        value: -2.259
+        value: -2.29
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -2929,7 +2929,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
-        value: 0.606
+        value: 0.35
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -3886,7 +3886,7 @@ AnimationClip:
       m_Curve:
       - serializedVersion: 3
         time: 0
-        value: 8.873
+        value: 192.399
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -3895,7 +3895,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.33333334
-        value: -28.131
+        value: 156.91
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -3904,7 +3904,7 @@ AnimationClip:
         outWeight: 0.33333334
       - serializedVersion: 3
         time: 0.5
-        value: 8.873
+        value: 173.065
         inSlope: 0
         outSlope: 0
         tangentMode: 136
@@ -4300,7 +4300,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u0440\u0443\u043A\u0430 \u043F/\u043A\u0443\u043B\u0430\u043A \u043F"
+    path: "\u0442\u0435\u043B\u043E"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -4312,19 +4312,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u0440\u0443\u043A\u0430 \u043F/\u043A\u0443\u043B\u0430\u043A \u043F"
-    classID: 4
-    script: {fileID: 0}
-    flags: 0
-  - serializedVersion: 2
-    curve:
-      serializedVersion: 2
-      m_Curve: []
-      m_PreInfinity: 2
-      m_PostInfinity: 2
-      m_RotationOrder: 4
-    attribute: m_LocalEulerAngles.x
-    path: "\u0440\u0443\u043A\u0430 \u043F/\u043A\u0443\u043B\u0430\u043A \u043F"
+    path: "\u0442\u0435\u043B\u043E"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -4347,8 +4335,20 @@ AnimationClip:
       m_PreInfinity: 2
       m_PostInfinity: 2
       m_RotationOrder: 4
+    attribute: m_LocalEulerAngles.x
+    path: "\u0440\u0443\u043A\u0430 \u043F/\u043A\u0443\u043B\u0430\u043A \u043F"
+    classID: 4
+    script: {fileID: 0}
+    flags: 0
+  - serializedVersion: 2
+    curve:
+      serializedVersion: 2
+      m_Curve: []
+      m_PreInfinity: 2
+      m_PostInfinity: 2
+      m_RotationOrder: 4
     attribute: m_LocalEulerAngles.y
-    path: "\u0442\u0435\u043B\u043E"
+    path: "\u0440\u0443\u043A\u0430 \u043F/\u043A\u0443\u043B\u0430\u043A \u043F"
     classID: 4
     script: {fileID: 0}
     flags: 0
@@ -4360,7 +4360,7 @@ AnimationClip:
       m_PostInfinity: 2
       m_RotationOrder: 4
     attribute: m_LocalEulerAngles.z
-    path: "\u0442\u0435\u043B\u043E"
+    path: "\u0440\u0443\u043A\u0430 \u043F/\u043A\u0443\u043B\u0430\u043A \u043F"
     classID: 4
     script: {fileID: 0}
     flags: 0
